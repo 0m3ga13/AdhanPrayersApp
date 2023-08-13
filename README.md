@@ -16,8 +16,8 @@ Welcome to the Prayer Times Web App – your companion for staying connected wit
 
 1. Clone this repository to your local machine:
 
-``` git clone https://github.com/your-username/prayer-times-web-app.git```
-```cd prayer-times-web-app```
+``` git clone https://github.com/0m3ga13/AdhanPrayersApp.git```
+```cd AdhanPrayersApp```
 
 2. Install the dependencies:
 
